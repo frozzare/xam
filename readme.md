@@ -9,4 +9,4 @@ npm install xam -g
 xam project.sln
 ```
 
-This is a fork of [bkts](https://github.com/maxogden/bkts) with modified code for Xamarin Studio.
+This is a inspired by [bkts](https://github.com/maxogden/bkts)
