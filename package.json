@@ -6,5 +6,6 @@
   "bin": {
     "xam": "index.js"
   },
-  "author": "Fredrik Forsmo"
+  "author": "Fredrik Forsmo",
+	"license": "BSD"
 }
