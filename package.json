@@ -1,11 +1,10 @@
 {
-  "name": "bkts",
-  "version": "0.0.2",
-  "description": "launch the Brackets editor from the command line",
+  "name": "xam",
+  "version": "0.0.1",
+  "description": "launch Xamarin Studio from the command line",
   "main": "index.js",
   "bin": {
-    "bkts": "index.js"
+    "xam": "index.js"
   },
-  "author": "max ogden",
-  "license": "BSD"
+  "author": "Fredrik Forsmo"
 }
